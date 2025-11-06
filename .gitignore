@@ -1,0 +1,4 @@
+.env
+*.db
+ngrok_url.txt
+__pycache__/
